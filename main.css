@@ -229,10 +229,17 @@ p {
     text-align: center;
 }
 }
-audio{
-      position: absolute;
+#myAudio{
+          position: absolute;
     bottom: 0;
-    right: 25%;
-    width: 50%;
-   opacity: 0.5;
+    left: 19%;
+    width: 31%;
+    opacity: 0.5;
+}
+#myAudio1{
+          position: absolute;
+    bottom: 0;
+    right: 19%;
+    width: 31%;
+    opacity: 0.5;
 }
